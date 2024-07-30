@@ -1,10 +1,13 @@
 import React from 'react'
+import CartBest from './CartBest'
 
 const Cart = () => {
   return (
-    <div>
-      
-    </div>
+    <>
+   <div className="Cart">
+    <CartBest/>
+   </div>
+    </>
   )
 }
 

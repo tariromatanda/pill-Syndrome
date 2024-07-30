@@ -6,10 +6,12 @@ const Footer = () => {
     <div className='footer'>
       <div className="text">
         <img src={image} alt="" />
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil, perspiciatis. Saepe, vel.</p>
+        <p>Lorem ipsum, dolor sit </p>
+        <p>amet consectetur adipisicing elit. <p>
+            </p>Nihil, perspiciatis. Saepe, vel.</p>
       </div>
       <div className="text">
-        <h1>Quick links</h1>
+        <h3>Quick links</h3>
         <ul>
            <li><a href="">Connect Wallet</a></li>
            <li><a href="">Mechandize</a></li>
